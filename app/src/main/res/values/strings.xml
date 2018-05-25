@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ISI</string>
+    <string-array name="niveau">
+        <item> l1sil </item>
+        <item> l2sil </item>
+        <item> l3sil </item>
+        <item> l1ars </item>
+        <item> l2ars </item>
+        <item> l3ars </item>
+        <item> l1se </item>
+        <item> l2se </item>
+        <item> l3se </item>
+        <item> m1ssice </item>
+        <item> m2ssice </item>
+        <item> m1rech </item>
+        <item> m2siiva </item>
+        <item> m2gl </item>
+        <item> ing1 </item>
+        <item> ing2 </item>
+        <item> ing3 </item>
+    </string-array>
+</resources>
